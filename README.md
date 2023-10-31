@@ -1,1 +1,1 @@
-# CPUSchedilerAlgorithms
+# CPU-Scheduler-Algorithms
